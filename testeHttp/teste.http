@@ -1,0 +1,13 @@
+@url = https://opulent-dollop-pj74xq9x9jpj37j4w-3000.app.github.dev
+
+GET {{url}}/api/teste
+
+###
+POST {{url}}
+
+###
+
+PUT {{url}}
+
+###
+
