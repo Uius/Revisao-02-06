@@ -1,0 +1,8 @@
+Stack {
+    NODE
+    NPM
+    TYPESCRIPT
+    NEXT.JS 
+    SQLITE (SGBD)
+    PRISMA (ORM)
+}
